@@ -1,0 +1,63 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  facility_code: MyString
+  institution: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  bah: MyString
+  poe: MyString
+  yr: MyString
+  gibill: MyString
+  cross: MyString
+  grad_rate: MyString
+  grad_rate_rank: MyString
+  default_rate: MyString
+  avg_stu_loan_debt: MyString
+  avg_stu_loan_debt_rank: MyString
+  indicator_group: MyString
+  salary: MyString
+  zip: MyString
+  ope: MyString
+  correpondence: MyString
+  flight: MyString
+  calendar: MyString
+  tuition_in_state: MyString
+  tuition_out_of_state: MyString
+  student_veteran: MyString
+  student_veteran_link: MyString
+  vetsuccess_name: MyString
+  vetsuccess_email: MyString
+  gijobs: MyString
+
+two:
+  facility_code: MyString
+  institution: MyString
+  city: MyString
+  state: MyString
+  country: MyString
+  bah: MyString
+  poe: MyString
+  yr: MyString
+  gibill: MyString
+  cross: MyString
+  grad_rate: MyString
+  grad_rate_rank: MyString
+  default_rate: MyString
+  avg_stu_loan_debt: MyString
+  avg_stu_loan_debt_rank: MyString
+  indicator_group: MyString
+  salary: MyString
+  zip: MyString
+  ope: MyString
+  correpondence: MyString
+  flight: MyString
+  calendar: MyString
+  tuition_in_state: MyString
+  tuition_out_of_state: MyString
+  student_veteran: MyString
+  student_veteran_link: MyString
+  vetsuccess_name: MyString
+  vetsuccess_email: MyString
+  gijobs: MyString

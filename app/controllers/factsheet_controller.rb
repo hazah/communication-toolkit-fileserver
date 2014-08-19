@@ -1,0 +1,2 @@
+class FactsheetController < ApplicationController
+end
